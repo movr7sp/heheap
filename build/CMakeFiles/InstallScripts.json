@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/user/source/repos/heheap/build/cmake_install.cmake",
+		"/home/user/source/repos/heheap/build/lib/glfw/cmake_install.cmake",
+		"/home/user/source/repos/heheap/build/lib/glfw/src/cmake_install.cmake",
+		"/home/user/source/repos/heheap/build/lib/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

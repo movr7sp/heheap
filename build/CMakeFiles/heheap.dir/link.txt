@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/heheap.dir/link.d CMakeFiles/heheap.dir/src/main.cpp.o -o heheap  lib/glfw/src/libglfw3.a libimgui.a /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/librt.a -lm -ldl

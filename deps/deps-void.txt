@@ -1,0 +1,1 @@
+MesaLib-devel wayland-devel libxkbcommon-devel libXcursor-devel libXi-devel libXinerama-devel libXrandr-devel
